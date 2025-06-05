@@ -10,7 +10,7 @@ img {
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 1500px;
+    height: 3000px;
     justify-content: space-around;
 }
 
